@@ -16,7 +16,8 @@ Welcome to the AI-powered Text Summarizer Web App!
 - **Integration with Postman**: Allows testing of API endpoints for development and debugging.
 - **Node.js Backend**: Serves as the application’s backbone, handling requests and responses.
 
-- Live Demo
+- Live Demo :
+-  Run this on Replit : https://replit.com/@nupoorkedare1/AI-Text-Summarizer-App-Starter-Template 
 - ![image](https://github.com/user-attachments/assets/cf0be124-8c13-4ae6-8ac2-880f9f26b652)
 - ![image](https://github.com/user-attachments/assets/aafaebc2-204e-4f61-9efd-783dbc80a452)
 
